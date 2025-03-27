@@ -53,19 +53,7 @@ The respository shows projects that applying fairness in machine learning for fi
 - **Race/Gender Fairness Simulation:** Simulated race-based disparities by grouping income and geography data.
 - **Comparison of Traditional vs. ML Models:** Evaluated if machine learning models introduced more bias than traditional scoring methods.
 
-### 5. Credit Card Fraud Detection (Anomaly Detection & Bias)
-
-**Dataset:** Credit Card Fraud Detection
-
-- **Description:** Fraud detection models may unintentionally flag certain demographics unfairly. Though this dataset lacks explicit demographic information, indirect bias can still exist.
-
-**What I Did in the Project:**
-
-- **False Positive/False Negative Bias:** Analyzed whether certain groups had higher false alarms in fraud detection.
-- **Fairness in Fraud Detection:** Ensured that underrepresented groups were not unfairly targeted by unsupervised models.
-- **Interpretable AI for Fairness:** Used SHAP values to explain why a transaction was flagged as fraud and to assess potential bias.
-
-### 6. Brazilian E-Commerce Public Dataset (Bias in Credit Approvals for Online Lending)
+### 5. Brazilian E-Commerce Public Dataset (Bias in Credit Approvals for Online Lending)
 
 **Dataset:** Brazilian E-Commerce Dataset
 
