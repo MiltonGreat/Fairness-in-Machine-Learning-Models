@@ -13,7 +13,7 @@ The respository shows projects that applying fairness in machine learning for fi
 - **[Bias Detection in Credit Approvals:](https://github.com/MiltonGreat/Bias-Detection.git)** Analyzed approval rates across gender and age groups to identify disparities.
 - **[Fairness Metrics Computation:](https://github.com/MiltonGreat/Credit-Risk-Fairness-Analysis.git)** Audited model using Aequitas and Fairlearn to calculate Demographic Parity, Equalized Odds, and Disparate Impact.
 - **[Model Bias Testing:](https://github.com/MiltonGreat/Model-Bias-Testing.git)** Built logistic regression and decision tree models to predict credit risk and evaluated bias in model predictions.
-- **Bias Mitigation Techniques:** Applied reweighing, adversarial debiasing, and reject inference to correct unfair model decisions.
+- **[Bias Mitigation Techniques:](https://github.com/MiltonGreat/Bias-Mitigation-Techniques.git)** Applied reweighing, adversarial debiasing, and reject inference to correct unfair model decisions.
 
 ### 2. Home Credit Default Risk (Fair Lending & Bias in Credit Scoring)
 
