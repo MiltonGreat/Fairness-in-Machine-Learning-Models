@@ -23,9 +23,6 @@ The respository shows projects that applying fairness in machine learning for fi
 
 **What I Did in the Project:**
 
-- **Bias in Credit Scoring:** Identified whether women, single parents, or low-income groups faced higher rejection rates.
-- **Loan Approval Disparities:** Analyzed default rates across socioeconomic groups to determine if models treated them fairly.
-- **Algorithmic Bias Analysis:** Compared ML models' performance across different demographic subgroups to check for bias.
 - **[Explainability in Credit Decisions:](https://github.com/MiltonGreat/Explainability-in-Credit-Decisions.git)** Used SHAP and LIME to identify which features most contributed to biased outcomes.
 
 ### 3. Lending Club Loan Data (Fairness in Loan Approvals)
