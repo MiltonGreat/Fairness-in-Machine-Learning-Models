@@ -15,17 +15,7 @@ The respository shows projects that applying fairness in machine learning for fi
 - **[Model Bias Testing:](https://github.com/MiltonGreat/Model-Bias-Testing.git)** Built logistic regression and decision tree models to predict credit risk and evaluated bias in model predictions.
 - **[Bias Mitigation Techniques:](https://github.com/MiltonGreat/Bias-Mitigation-Techniques.git)** Applied reweighing, adversarial debiasing, and reject inference to correct unfair model decisions.
 
-### 2. Home Credit Default Risk (Fair Lending & Bias in Credit Scoring)
-
-**Dataset:** Home Credit Default Risk
-
-**Description:** This real-world financial dataset contains loan applications, borrower demographics, and credit history information. Certain demographic features, such as gender, income type, and family status, may introduce bias in lending decisions.
-
-**What I Did in the Project:**
-
-- **[Explainability in Credit Decisions:](https://github.com/MiltonGreat/Explainability-in-Credit-Decisions.git)** Used SHAP and LIME to identify which features most contributed to biased outcomes.
-
-### 3. Lending Club Loan Data (Fairness in Loan Approvals)
+### 2. Lending Club Loan Data (Fairness in Loan Approvals)
 
 **Dataset:** Lending Club Loan Data
 
@@ -38,7 +28,7 @@ The respository shows projects that applying fairness in machine learning for fi
 - **Regulatory Compliance Simulation:** Applied Fair Lending Laws (ECOA) and fairness auditing techniques.
 - **Fair Model Adjustments:** Implemented FairBoost and equalized odds post-processing to improve fairness in loan approvals.
 
-### 4. Give Me Some Credit (Bias in Credit Scores)
+### 3. Give Me Some Credit (Bias in Credit Scores)
 
 **Dataset:** Give Me Some Credit
 
@@ -49,7 +39,7 @@ The respository shows projects that applying fairness in machine learning for fi
 - **Race/Gender Fairness Simulation:** Simulated race-based disparities by grouping income and geography data.
 - **Comparison of Traditional vs. ML Models:** Evaluated if machine learning models introduced more bias than traditional scoring methods.
 
-### 5. Brazilian E-Commerce Public Dataset (Bias in Credit Approvals for Online Lending)
+### 4. Brazilian E-Commerce Public Dataset (Bias in Credit Approvals for Online Lending)
 
 **Dataset:** Brazilian E-Commerce Dataset
 
