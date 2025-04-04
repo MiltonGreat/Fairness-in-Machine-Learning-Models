@@ -25,7 +25,7 @@ The respository shows projects that applying fairness in machine learning for fi
 
 - **Age Discrimination in Credit Scoring:** Investigated whether older applicants received lower scores unfairly.
 - **Race/Gender Fairness Simulation:** Simulated race-based disparities by grouping income and geography data.
-- **Comparison of Traditional vs. ML Models:** Evaluated if machine learning models introduced more bias than traditional scoring methods.
+- **[Comparison of Traditional vs. ML Models:](https://github.com/MiltonGreat/Comparison-of-Traditional-vs.-ML-Models.git)** Evaluated if machine learning models introduced more bias than traditional scoring methods.
 
 ### 3. Brazilian E-Commerce Public Dataset (Bias in Credit Approvals for Online Lending)
 
