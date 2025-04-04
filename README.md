@@ -20,6 +20,7 @@ The respository shows projects that applying fairness in machine learning for fi
 **Dataset:** Give Me Some Credit
 
 **Description:** This dataset focuses on personal finance and loan approvals, where variables like age, income, and employment history affect risk assessment. It is useful for exploring bias in credit scoring models.
+
 **What I Did in the Project:**
 
 - **Age Discrimination in Credit Scoring:** Investigated whether older applicants received lower scores unfairly.
