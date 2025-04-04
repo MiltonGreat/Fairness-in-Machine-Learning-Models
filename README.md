@@ -15,20 +15,7 @@ The respository shows projects that applying fairness in machine learning for fi
 - **[Model Bias Testing:](https://github.com/MiltonGreat/Model-Bias-Testing.git)** Built logistic regression and decision tree models to predict credit risk and evaluated bias in model predictions.
 - **[Bias Mitigation Techniques:](https://github.com/MiltonGreat/Bias-Mitigation-Techniques.git)** Applied reweighing, adversarial debiasing, and reject inference to correct unfair model decisions.
 
-### 2. Lending Club Loan Data (Fairness in Loan Approvals)
-
-**Dataset:** Lending Club Loan Data
-
-**Description:** This dataset contains loan status, credit scores, and borrower details, making it useful for analyzing fairness in loan approvals. Features like income, job title, and loan purpose could introduce bias in lending decisions.
-
-**What I Did in the Project:**
-
-- **Bias in Lending Decisions:** Investigated whether certain income groups received higher interest rates or more frequent rejections.
-- **Debt-to-Income Impact on Loan Decisions:** Examined whether minority groups faced stricter lending rules.
-- **Regulatory Compliance Simulation:** Applied Fair Lending Laws (ECOA) and fairness auditing techniques.
-- **Fair Model Adjustments:** Implemented FairBoost and equalized odds post-processing to improve fairness in loan approvals.
-
-### 3. Give Me Some Credit (Bias in Credit Scores)
+### 2. Give Me Some Credit (Bias in Credit Scores)
 
 **Dataset:** Give Me Some Credit
 
@@ -39,7 +26,7 @@ The respository shows projects that applying fairness in machine learning for fi
 - **Race/Gender Fairness Simulation:** Simulated race-based disparities by grouping income and geography data.
 - **Comparison of Traditional vs. ML Models:** Evaluated if machine learning models introduced more bias than traditional scoring methods.
 
-### 4. Brazilian E-Commerce Public Dataset (Bias in Credit Approvals for Online Lending)
+### 3. Brazilian E-Commerce Public Dataset (Bias in Credit Approvals for Online Lending)
 
 **Dataset:** Brazilian E-Commerce Dataset
 
