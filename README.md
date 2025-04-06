@@ -35,6 +35,5 @@ The respository shows projects that applying fairness in machine learning for fi
 
 **What I Did in the Project:**
 
-- **Geographical Bias in Credit Decisions:** Checked if rural applicants were less likely to be approved compared to urban applicants.
-- **Loan Amount Disparities:** Investigated whether certain customer segments received lower loan amounts or worse repayment terms.
-- **Bias in Payment Defaults:** Analyzed whether income level affected how defaults were classified.
+- **Fairness Audit with Aequitas and Fairlearn:** Evaluated fairness of prediction models using metrics like Demographic Parity, Equal Opportunity, and Disparate Impact. Audited results with Aequitas fairness reports and Fairlearn dashboards across sensitive features like Gender and Credit_History.
+- **Bias Detection in Approvals:** Performed group-wise analysis of approval rates by Gender, Marital Status, and Property_Area. Used statistical tests (Chi-Square) to check independence and visualized disparities using grouped bar charts.
