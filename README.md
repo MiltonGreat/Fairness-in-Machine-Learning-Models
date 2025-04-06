@@ -27,7 +27,7 @@ The respository shows projects that applying fairness in machine learning for fi
 - **[Race/Gender Fairness Simulation:](https://github.com/MiltonGreat/Fairness-Simulation.git)** Simulated race-based disparities by grouping income and geography data.
 - **[Comparison of Traditional vs. ML Models:](https://github.com/MiltonGreat/Comparison-of-Traditional-vs.-ML-Models.git)** Evaluated if machine learning models introduced more bias than traditional scoring methods.
 
-### 3. Loan Eligibility & Fairness Analysis
+### 3. Loan Application Data (Loan Eligibility & Fairness Analysis)
 
 **Dataset:** Loan Application Data
 
