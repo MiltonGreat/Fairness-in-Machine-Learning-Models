@@ -27,11 +27,11 @@ The respository shows projects that applying fairness in machine learning for fi
 - **[Race/Gender Fairness Simulation:](https://github.com/MiltonGreat/Fairness-Simulation.git)** Simulated race-based disparities by grouping income and geography data.
 - **[Comparison of Traditional vs. ML Models:](https://github.com/MiltonGreat/Comparison-of-Traditional-vs.-ML-Models.git)** Evaluated if machine learning models introduced more bias than traditional scoring methods.
 
-### 3. Brazilian E-Commerce Public Dataset (Bias in Credit Approvals for Online Lending)
+### 3. Loan Eligibility & Fairness Analysis
 
-**Dataset:** Brazilian E-Commerce Dataset
+**Dataset:** Loan Application Data
 
-**Description:** This dataset contains customer demographic data, credit card payments, and transaction history, making it useful for analyzing bias in online credit approvals.
+**Description:** This dataset contains applicant-level financial and demographic information typically used to determine loan eligibility.
 
 **What I Did in the Project:**
 
