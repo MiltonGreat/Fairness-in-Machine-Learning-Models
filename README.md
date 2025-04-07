@@ -35,5 +35,5 @@ The respository shows projects that applying fairness in machine learning for fi
 
 **What I Did in the Project:**
 
-- **[Fairness Audit with Aequitas and Fairlearn:](https://github.com/MiltonGreat/Fairness-Audit-with-Aequitas-and-Fairlearn.git)** Evaluated fairness of prediction models using Demographic Parity, Equal Opportunity, and Disparate Impact metrics. Audited results with Aequitas fairness reports on gender.
+- **[Fairness Audit with Aequitas and Fairlearn:](https://github.com/MiltonGreat/Fairness-Audit-with-Aequitas-and-Fairlearn.git)** Evaluated fairness of prediction models on gender using Demographic Parity, Equal Opportunity, and Disparate Impact metrics.
 - **[Bias Detection in Approvals:](https://github.com/MiltonGreat/Bias-Detection-in-Approvals.git)** Performed group-wise analysis of approval rates by gender, marital status, and property area.
